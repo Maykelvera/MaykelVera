@@ -1,16 +1,26 @@
-## Hi there 👋
+## Vera Maykel
+ - Especialista en seguridad en la nube enfocado en Azure, Python y buenas prácticas de ciberseguridad.
 
-<!--
-**Maykelvera/MaykelVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+ - Estudiante de TI con interés en seguridad en la nube, aprendizaje continuo y desarrollo de soluciones que contribuyan a un entorno digital más seguro.
+   
+  ## Habilidades
+- Azure
+- Python
+- Seguridad en la nube
+- Frameworks de seguridad
+- Buenas prácticas de ciberseguridad
+  ## En aprendizaje
+- Laboratorios de seguridad en Azure
+- Automatización con Python
+- Gestión de identidades y accesos
+- Principios de hardening y monitoreo
+  
+  ## Proyectos
+- Repositorio de laboratorios y prácticas
+- Scripts en Python para tareas de seguridad
+- Documentación de buenas prácticas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Contacto
+- Linkidin: https://www.linkedin.com/in/maykel-vera-32754a3bb/
+- Email: maykelvera42@gmail.com
