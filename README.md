@@ -22,5 +22,5 @@
 - Documentación de buenas prácticas
 
   ## Contacto
-- Linkidin: https://www.linkedin.com/in/maykel-vera-32754a3bb/
+- Linkedln: https://www.linkedin.com/in/maykel-vera-32754a3bb/
 - Email: maykelvera42@gmail.com
